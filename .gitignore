@@ -1,0 +1,14 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.lib
+*.a
+
+# Dependency files
+*.d
+
+*.json
